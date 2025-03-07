@@ -7,3 +7,4 @@ python-dotenv==1.0.1
 pyPDF2==3.0.1
 faiss-cpu==1.10.0
 streamlit-chat==0.1.1
+beautifulsoup4==4.13.3
