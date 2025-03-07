@@ -5,5 +5,5 @@ streamlit==1.43.0
 langchain_community==0.3.19
 python-dotenv==1.0.1
 pyPDF2==3.0.1
-faiss-cpu==1.10.2
+faiss-cpu==1.10.0
 streamlit-chat==0.1.1
